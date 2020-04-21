@@ -1,0 +1,125 @@
+/* Fonts Included */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+@font-face {
+    font-family: 'Avenir Next';
+    src: url('../fonts/AvenirNext-Bold.woff2') format('woff2'),
+         url('../fonts/AvenirNext-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: block;
+}
+@font-face {
+    font-family: 'Avenir Next';
+    src: url('../fonts/AvenirNext-Regular.woff2') format('woff2'),
+         url('../fonts/AvenirNext-Regular.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+    font-display: block;
+}
+@font-face {
+    font-family: 'Avenir Next';
+    src: url('../fonts/AvenirNext-Medium.woff2') format('woff2'),
+         url('../fonts/AvenirNext-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: block;
+}
+
+
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+
+:not(.no-transition):hover{
+    -webkit-transition: all ease 0.3s;
+    -moz-transition: all ease 0.3s;
+    transition: all ease 0.3s;
+}
+
+.not-front #header .container{
+    @apply py-5;
+}
+.not-front #header .logo{
+    -webkit-transition: all ease 0.3s;
+    -moz-transition: all ease 0.3s;
+    transition: all ease 0.3s;
+}
+.logo{
+    width: 36.1875rem;
+}
+
+.container{
+    max-width: 1580px;
+}
+
+.hero-section{
+    background-image: url("../img/headers.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center bottom;
+    height: 56.25rem;
+}
+.btn-blue{
+    background: linear-gradient(270deg, #0070BA, #0168AD);
+    box-shadow: 0px 3px 10px rgba(71,55,173,0.2);
+    border-radius: 2px;
+    color: #fff;
+    font-size: 1.5rem;
+    padding: 2.5rem 3.125rem;
+}
+.btn-blue:hover{
+    background: linear-gradient(270deg, #0c153d, #0c153d);
+    text-decoration: none;
+}
+
+.about-us-image{
+    background-image: url("../img/about-us.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: left center;
+}
+
+.schedule-consultation-image{
+    background-image: url("../img/schedule-consultation.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.footer-image{
+    background-image: url("../img/schedule-consultation.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+html{
+    font-size: 11px;
+}
+@media (min-width: 480px) {
+    html{
+        font-size: 12px;
+    }
+}
+
+@media (min-width: 640px) {
+    html{
+        font-size: 13px;
+    }
+}
+  
+@media (min-width: 1024px) {
+    html{
+        font-size: 14px;
+    }
+
+}
+  
+@media (min-width: 1280px) {
+    html{
+        font-size: 16px;
+    }
+}

@@ -3,7 +3,7 @@ module.exports = {
     extend: {
       colors: {
         'primary': '#0071bb',
-        'secondary': '#0c153d'
+        'secondary': '#010d3d'
       },
       letterSpacing:{
           'wider': '3px',

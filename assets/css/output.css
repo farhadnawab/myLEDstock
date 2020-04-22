@@ -1211,7 +1211,7 @@ video {
 }
 
 .bg-secondary{
-  background-color: #0c153d;
+  background-color: #010d3d;
 }
 
 .hover\:bg-transparent:hover{
@@ -1591,7 +1591,7 @@ video {
 }
 
 .hover\:bg-secondary:hover{
-  background-color: #0c153d;
+  background-color: #010d3d;
 }
 
 .focus\:bg-transparent:focus{
@@ -1971,7 +1971,7 @@ video {
 }
 
 .focus\:bg-secondary:focus{
-  background-color: #0c153d;
+  background-color: #010d3d;
 }
 
 .group:hover .group-hover\:bg-transparent{
@@ -2351,7 +2351,7 @@ video {
 }
 
 .group:hover .group-hover\:bg-secondary{
-  background-color: #0c153d;
+  background-color: #010d3d;
 }
 
 .bg-bottom{
@@ -3067,7 +3067,7 @@ video {
 }
 
 .border-secondary{
-  border-color: #0c153d;
+  border-color: #010d3d;
 }
 
 .hover\:border-transparent:hover{
@@ -3447,7 +3447,7 @@ video {
 }
 
 .hover\:border-secondary:hover{
-  border-color: #0c153d;
+  border-color: #010d3d;
 }
 
 .focus\:border-transparent:focus{
@@ -3827,7 +3827,7 @@ video {
 }
 
 .focus\:border-secondary:focus{
-  border-color: #0c153d;
+  border-color: #010d3d;
 }
 
 .group:hover .group-hover\:border-transparent{
@@ -4207,7 +4207,7 @@ video {
 }
 
 .group:hover .group-hover\:border-secondary{
-  border-color: #0c153d;
+  border-color: #010d3d;
 }
 
 .rounded-none{
@@ -17931,23 +17931,23 @@ video {
 }
 
 .placeholder-secondary::-webkit-input-placeholder{
-  color: #0c153d;
+  color: #010d3d;
 }
 
 .placeholder-secondary::-moz-placeholder{
-  color: #0c153d;
+  color: #010d3d;
 }
 
 .placeholder-secondary:-ms-input-placeholder{
-  color: #0c153d;
+  color: #010d3d;
 }
 
 .placeholder-secondary::-ms-input-placeholder{
-  color: #0c153d;
+  color: #010d3d;
 }
 
 .placeholder-secondary::placeholder{
-  color: #0c153d;
+  color: #010d3d;
 }
 
 .hover\:placeholder-transparent:hover::-webkit-input-placeholder{
@@ -19831,23 +19831,23 @@ video {
 }
 
 .hover\:placeholder-secondary:hover::-webkit-input-placeholder{
-  color: #0c153d;
+  color: #010d3d;
 }
 
 .hover\:placeholder-secondary:hover::-moz-placeholder{
-  color: #0c153d;
+  color: #010d3d;
 }
 
 .hover\:placeholder-secondary:hover:-ms-input-placeholder{
-  color: #0c153d;
+  color: #010d3d;
 }
 
 .hover\:placeholder-secondary:hover::-ms-input-placeholder{
-  color: #0c153d;
+  color: #010d3d;
 }
 
 .hover\:placeholder-secondary:hover::placeholder{
-  color: #0c153d;
+  color: #010d3d;
 }
 
 .focus\:placeholder-transparent:focus::-webkit-input-placeholder{
@@ -21731,23 +21731,23 @@ video {
 }
 
 .focus\:placeholder-secondary:focus::-webkit-input-placeholder{
-  color: #0c153d;
+  color: #010d3d;
 }
 
 .focus\:placeholder-secondary:focus::-moz-placeholder{
-  color: #0c153d;
+  color: #010d3d;
 }
 
 .focus\:placeholder-secondary:focus:-ms-input-placeholder{
-  color: #0c153d;
+  color: #010d3d;
 }
 
 .focus\:placeholder-secondary:focus::-ms-input-placeholder{
-  color: #0c153d;
+  color: #010d3d;
 }
 
 .focus\:placeholder-secondary:focus::placeholder{
-  color: #0c153d;
+  color: #010d3d;
 }
 
 .group:hover .group-hover\:placeholder-transparent::-webkit-input-placeholder{
@@ -23631,23 +23631,23 @@ video {
 }
 
 .group:hover .group-hover\:placeholder-secondary::-webkit-input-placeholder{
-  color: #0c153d;
+  color: #010d3d;
 }
 
 .group:hover .group-hover\:placeholder-secondary::-moz-placeholder{
-  color: #0c153d;
+  color: #010d3d;
 }
 
 .group:hover .group-hover\:placeholder-secondary:-ms-input-placeholder{
-  color: #0c153d;
+  color: #010d3d;
 }
 
 .group:hover .group-hover\:placeholder-secondary::-ms-input-placeholder{
-  color: #0c153d;
+  color: #010d3d;
 }
 
 .group:hover .group-hover\:placeholder-secondary::placeholder{
-  color: #0c153d;
+  color: #010d3d;
 }
 
 .pointer-events-none{
@@ -24759,7 +24759,7 @@ video {
 }
 
 .text-secondary{
-  color: #0c153d;
+  color: #010d3d;
 }
 
 .hover\:text-transparent:hover{
@@ -25139,7 +25139,7 @@ video {
 }
 
 .hover\:text-secondary:hover{
-  color: #0c153d;
+  color: #010d3d;
 }
 
 .focus\:text-transparent:focus{
@@ -25519,7 +25519,7 @@ video {
 }
 
 .focus\:text-secondary:focus{
-  color: #0c153d;
+  color: #010d3d;
 }
 
 .group:hover .group-hover\:text-transparent{
@@ -25899,7 +25899,7 @@ video {
 }
 
 .group:hover .group-hover\:text-secondary{
-  color: #0c153d;
+  color: #010d3d;
 }
 
 .text-xs{
@@ -27927,6 +27927,13 @@ video {
   transition: all ease 0.3s;
 }
 
+.main-wrapper{
+  position: relative;
+  max-width: 2300px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .not-front #header .container{
   padding-top: 1.25rem;
   padding-bottom: 1.25rem;
@@ -27939,6 +27946,7 @@ video {
 
 .logo{
   width: 36.1875rem;
+  max-width: 65%;
 }
 
 .container{
@@ -27960,7 +27968,7 @@ video {
   border-radius: 2px;
   color: #fff;
   font-size: 1.5rem;
-  padding: 2.5rem 3.125rem;
+  padding: 1.8rem 2.625rem;
 }
 
 .btn-blue:hover{
@@ -27970,10 +27978,13 @@ video {
 }
 
 .about-us-image{
-  background-image: url("../img/about-us.png");
-  background-repeat: no-repeat;
-  background-size: 100%;
-  background-position: left center;
+  content: "";
+  position: absolute;
+  z-index: -1;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: auto;
 }
 
 .schedule-consultation-image{
@@ -27984,7 +27995,7 @@ video {
 }
 
 .footer-image{
-  background-image: url("../img/schedule-consultation.png");
+  background-image: url("../img/footer.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -28003,6 +28014,10 @@ html{
 @media (min-width: 640px) {
   html{
     font-size: 13px;
+  }
+
+  .btn-blue{
+    padding: 2.5rem 3.125rem;
   }
 }
 
@@ -28560,7 +28575,7 @@ html{
   }
 
   .sm\:bg-secondary{
-    background-color: #0c153d;
+    background-color: #010d3d;
   }
 
   .sm\:hover\:bg-transparent:hover{
@@ -28940,7 +28955,7 @@ html{
   }
 
   .sm\:hover\:bg-secondary:hover{
-    background-color: #0c153d;
+    background-color: #010d3d;
   }
 
   .sm\:focus\:bg-transparent:focus{
@@ -29320,7 +29335,7 @@ html{
   }
 
   .sm\:focus\:bg-secondary:focus{
-    background-color: #0c153d;
+    background-color: #010d3d;
   }
 
   .group:hover .sm\:group-hover\:bg-transparent{
@@ -29700,7 +29715,7 @@ html{
   }
 
   .group:hover .sm\:group-hover\:bg-secondary{
-    background-color: #0c153d;
+    background-color: #010d3d;
   }
 
   .sm\:bg-bottom{
@@ -30416,7 +30431,7 @@ html{
   }
 
   .sm\:border-secondary{
-    border-color: #0c153d;
+    border-color: #010d3d;
   }
 
   .sm\:hover\:border-transparent:hover{
@@ -30796,7 +30811,7 @@ html{
   }
 
   .sm\:hover\:border-secondary:hover{
-    border-color: #0c153d;
+    border-color: #010d3d;
   }
 
   .sm\:focus\:border-transparent:focus{
@@ -31176,7 +31191,7 @@ html{
   }
 
   .sm\:focus\:border-secondary:focus{
-    border-color: #0c153d;
+    border-color: #010d3d;
   }
 
   .group:hover .sm\:group-hover\:border-transparent{
@@ -31556,7 +31571,7 @@ html{
   }
 
   .group:hover .sm\:group-hover\:border-secondary{
-    border-color: #0c153d;
+    border-color: #010d3d;
   }
 
   .sm\:rounded-none{
@@ -45280,23 +45295,23 @@ html{
   }
 
   .sm\:placeholder-secondary::-webkit-input-placeholder{
-    color: #0c153d;
+    color: #010d3d;
   }
 
   .sm\:placeholder-secondary::-moz-placeholder{
-    color: #0c153d;
+    color: #010d3d;
   }
 
   .sm\:placeholder-secondary:-ms-input-placeholder{
-    color: #0c153d;
+    color: #010d3d;
   }
 
   .sm\:placeholder-secondary::-ms-input-placeholder{
-    color: #0c153d;
+    color: #010d3d;
   }
 
   .sm\:placeholder-secondary::placeholder{
-    color: #0c153d;
+    color: #010d3d;
   }
 
   .sm\:hover\:placeholder-transparent:hover::-webkit-input-placeholder{
@@ -47180,23 +47195,23 @@ html{
   }
 
   .sm\:hover\:placeholder-secondary:hover::-webkit-input-placeholder{
-    color: #0c153d;
+    color: #010d3d;
   }
 
   .sm\:hover\:placeholder-secondary:hover::-moz-placeholder{
-    color: #0c153d;
+    color: #010d3d;
   }
 
   .sm\:hover\:placeholder-secondary:hover:-ms-input-placeholder{
-    color: #0c153d;
+    color: #010d3d;
   }
 
   .sm\:hover\:placeholder-secondary:hover::-ms-input-placeholder{
-    color: #0c153d;
+    color: #010d3d;
   }
 
   .sm\:hover\:placeholder-secondary:hover::placeholder{
-    color: #0c153d;
+    color: #010d3d;
   }
 
   .sm\:focus\:placeholder-transparent:focus::-webkit-input-placeholder{
@@ -49080,23 +49095,23 @@ html{
   }
 
   .sm\:focus\:placeholder-secondary:focus::-webkit-input-placeholder{
-    color: #0c153d;
+    color: #010d3d;
   }
 
   .sm\:focus\:placeholder-secondary:focus::-moz-placeholder{
-    color: #0c153d;
+    color: #010d3d;
   }
 
   .sm\:focus\:placeholder-secondary:focus:-ms-input-placeholder{
-    color: #0c153d;
+    color: #010d3d;
   }
 
   .sm\:focus\:placeholder-secondary:focus::-ms-input-placeholder{
-    color: #0c153d;
+    color: #010d3d;
   }
 
   .sm\:focus\:placeholder-secondary:focus::placeholder{
-    color: #0c153d;
+    color: #010d3d;
   }
 
   .group:hover .sm\:group-hover\:placeholder-transparent::-webkit-input-placeholder{
@@ -50980,23 +50995,23 @@ html{
   }
 
   .group:hover .sm\:group-hover\:placeholder-secondary::-webkit-input-placeholder{
-    color: #0c153d;
+    color: #010d3d;
   }
 
   .group:hover .sm\:group-hover\:placeholder-secondary::-moz-placeholder{
-    color: #0c153d;
+    color: #010d3d;
   }
 
   .group:hover .sm\:group-hover\:placeholder-secondary:-ms-input-placeholder{
-    color: #0c153d;
+    color: #010d3d;
   }
 
   .group:hover .sm\:group-hover\:placeholder-secondary::-ms-input-placeholder{
-    color: #0c153d;
+    color: #010d3d;
   }
 
   .group:hover .sm\:group-hover\:placeholder-secondary::placeholder{
-    color: #0c153d;
+    color: #010d3d;
   }
 
   .sm\:pointer-events-none{
@@ -52108,7 +52123,7 @@ html{
   }
 
   .sm\:text-secondary{
-    color: #0c153d;
+    color: #010d3d;
   }
 
   .sm\:hover\:text-transparent:hover{
@@ -52488,7 +52503,7 @@ html{
   }
 
   .sm\:hover\:text-secondary:hover{
-    color: #0c153d;
+    color: #010d3d;
   }
 
   .sm\:focus\:text-transparent:focus{
@@ -52868,7 +52883,7 @@ html{
   }
 
   .sm\:focus\:text-secondary:focus{
-    color: #0c153d;
+    color: #010d3d;
   }
 
   .group:hover .sm\:group-hover\:text-transparent{
@@ -53248,7 +53263,7 @@ html{
   }
 
   .group:hover .sm\:group-hover\:text-secondary{
-    color: #0c153d;
+    color: #010d3d;
   }
 
   .sm\:text-xs{
@@ -55814,7 +55829,7 @@ html{
   }
 
   .md\:bg-secondary{
-    background-color: #0c153d;
+    background-color: #010d3d;
   }
 
   .md\:hover\:bg-transparent:hover{
@@ -56194,7 +56209,7 @@ html{
   }
 
   .md\:hover\:bg-secondary:hover{
-    background-color: #0c153d;
+    background-color: #010d3d;
   }
 
   .md\:focus\:bg-transparent:focus{
@@ -56574,7 +56589,7 @@ html{
   }
 
   .md\:focus\:bg-secondary:focus{
-    background-color: #0c153d;
+    background-color: #010d3d;
   }
 
   .group:hover .md\:group-hover\:bg-transparent{
@@ -56954,7 +56969,7 @@ html{
   }
 
   .group:hover .md\:group-hover\:bg-secondary{
-    background-color: #0c153d;
+    background-color: #010d3d;
   }
 
   .md\:bg-bottom{
@@ -57670,7 +57685,7 @@ html{
   }
 
   .md\:border-secondary{
-    border-color: #0c153d;
+    border-color: #010d3d;
   }
 
   .md\:hover\:border-transparent:hover{
@@ -58050,7 +58065,7 @@ html{
   }
 
   .md\:hover\:border-secondary:hover{
-    border-color: #0c153d;
+    border-color: #010d3d;
   }
 
   .md\:focus\:border-transparent:focus{
@@ -58430,7 +58445,7 @@ html{
   }
 
   .md\:focus\:border-secondary:focus{
-    border-color: #0c153d;
+    border-color: #010d3d;
   }
 
   .group:hover .md\:group-hover\:border-transparent{
@@ -58810,7 +58825,7 @@ html{
   }
 
   .group:hover .md\:group-hover\:border-secondary{
-    border-color: #0c153d;
+    border-color: #010d3d;
   }
 
   .md\:rounded-none{
@@ -72534,23 +72549,23 @@ html{
   }
 
   .md\:placeholder-secondary::-webkit-input-placeholder{
-    color: #0c153d;
+    color: #010d3d;
   }
 
   .md\:placeholder-secondary::-moz-placeholder{
-    color: #0c153d;
+    color: #010d3d;
   }
 
   .md\:placeholder-secondary:-ms-input-placeholder{
-    color: #0c153d;
+    color: #010d3d;
   }
 
   .md\:placeholder-secondary::-ms-input-placeholder{
-    color: #0c153d;
+    color: #010d3d;
   }
 
   .md\:placeholder-secondary::placeholder{
-    color: #0c153d;
+    color: #010d3d;
   }
 
   .md\:hover\:placeholder-transparent:hover::-webkit-input-placeholder{
@@ -74434,23 +74449,23 @@ html{
   }
 
   .md\:hover\:placeholder-secondary:hover::-webkit-input-placeholder{
-    color: #0c153d;
+    color: #010d3d;
   }
 
   .md\:hover\:placeholder-secondary:hover::-moz-placeholder{
-    color: #0c153d;
+    color: #010d3d;
   }
 
   .md\:hover\:placeholder-secondary:hover:-ms-input-placeholder{
-    color: #0c153d;
+    color: #010d3d;
   }
 
   .md\:hover\:placeholder-secondary:hover::-ms-input-placeholder{
-    color: #0c153d;
+    color: #010d3d;
   }
 
   .md\:hover\:placeholder-secondary:hover::placeholder{
-    color: #0c153d;
+    color: #010d3d;
   }
 
   .md\:focus\:placeholder-transparent:focus::-webkit-input-placeholder{
@@ -76334,23 +76349,23 @@ html{
   }
 
   .md\:focus\:placeholder-secondary:focus::-webkit-input-placeholder{
-    color: #0c153d;
+    color: #010d3d;
   }
 
   .md\:focus\:placeholder-secondary:focus::-moz-placeholder{
-    color: #0c153d;
+    color: #010d3d;
   }
 
   .md\:focus\:placeholder-secondary:focus:-ms-input-placeholder{
-    color: #0c153d;
+    color: #010d3d;
   }
 
   .md\:focus\:placeholder-secondary:focus::-ms-input-placeholder{
-    color: #0c153d;
+    color: #010d3d;
   }
 
   .md\:focus\:placeholder-secondary:focus::placeholder{
-    color: #0c153d;
+    color: #010d3d;
   }
 
   .group:hover .md\:group-hover\:placeholder-transparent::-webkit-input-placeholder{
@@ -78234,23 +78249,23 @@ html{
   }
 
   .group:hover .md\:group-hover\:placeholder-secondary::-webkit-input-placeholder{
-    color: #0c153d;
+    color: #010d3d;
   }
 
   .group:hover .md\:group-hover\:placeholder-secondary::-moz-placeholder{
-    color: #0c153d;
+    color: #010d3d;
   }
 
   .group:hover .md\:group-hover\:placeholder-secondary:-ms-input-placeholder{
-    color: #0c153d;
+    color: #010d3d;
   }
 
   .group:hover .md\:group-hover\:placeholder-secondary::-ms-input-placeholder{
-    color: #0c153d;
+    color: #010d3d;
   }
 
   .group:hover .md\:group-hover\:placeholder-secondary::placeholder{
-    color: #0c153d;
+    color: #010d3d;
   }
 
   .md\:pointer-events-none{
@@ -79362,7 +79377,7 @@ html{
   }
 
   .md\:text-secondary{
-    color: #0c153d;
+    color: #010d3d;
   }
 
   .md\:hover\:text-transparent:hover{
@@ -79742,7 +79757,7 @@ html{
   }
 
   .md\:hover\:text-secondary:hover{
-    color: #0c153d;
+    color: #010d3d;
   }
 
   .md\:focus\:text-transparent:focus{
@@ -80122,7 +80137,7 @@ html{
   }
 
   .md\:focus\:text-secondary:focus{
-    color: #0c153d;
+    color: #010d3d;
   }
 
   .group:hover .md\:group-hover\:text-transparent{
@@ -80502,7 +80517,7 @@ html{
   }
 
   .group:hover .md\:group-hover\:text-secondary{
-    color: #0c153d;
+    color: #010d3d;
   }
 
   .md\:text-xs{
@@ -83068,7 +83083,7 @@ html{
   }
 
   .lg\:bg-secondary{
-    background-color: #0c153d;
+    background-color: #010d3d;
   }
 
   .lg\:hover\:bg-transparent:hover{
@@ -83448,7 +83463,7 @@ html{
   }
 
   .lg\:hover\:bg-secondary:hover{
-    background-color: #0c153d;
+    background-color: #010d3d;
   }
 
   .lg\:focus\:bg-transparent:focus{
@@ -83828,7 +83843,7 @@ html{
   }
 
   .lg\:focus\:bg-secondary:focus{
-    background-color: #0c153d;
+    background-color: #010d3d;
   }
 
   .group:hover .lg\:group-hover\:bg-transparent{
@@ -84208,7 +84223,7 @@ html{
   }
 
   .group:hover .lg\:group-hover\:bg-secondary{
-    background-color: #0c153d;
+    background-color: #010d3d;
   }
 
   .lg\:bg-bottom{
@@ -84924,7 +84939,7 @@ html{
   }
 
   .lg\:border-secondary{
-    border-color: #0c153d;
+    border-color: #010d3d;
   }
 
   .lg\:hover\:border-transparent:hover{
@@ -85304,7 +85319,7 @@ html{
   }
 
   .lg\:hover\:border-secondary:hover{
-    border-color: #0c153d;
+    border-color: #010d3d;
   }
 
   .lg\:focus\:border-transparent:focus{
@@ -85684,7 +85699,7 @@ html{
   }
 
   .lg\:focus\:border-secondary:focus{
-    border-color: #0c153d;
+    border-color: #010d3d;
   }
 
   .group:hover .lg\:group-hover\:border-transparent{
@@ -86064,7 +86079,7 @@ html{
   }
 
   .group:hover .lg\:group-hover\:border-secondary{
-    border-color: #0c153d;
+    border-color: #010d3d;
   }
 
   .lg\:rounded-none{
@@ -99788,23 +99803,23 @@ html{
   }
 
   .lg\:placeholder-secondary::-webkit-input-placeholder{
-    color: #0c153d;
+    color: #010d3d;
   }
 
   .lg\:placeholder-secondary::-moz-placeholder{
-    color: #0c153d;
+    color: #010d3d;
   }
 
   .lg\:placeholder-secondary:-ms-input-placeholder{
-    color: #0c153d;
+    color: #010d3d;
   }
 
   .lg\:placeholder-secondary::-ms-input-placeholder{
-    color: #0c153d;
+    color: #010d3d;
   }
 
   .lg\:placeholder-secondary::placeholder{
-    color: #0c153d;
+    color: #010d3d;
   }
 
   .lg\:hover\:placeholder-transparent:hover::-webkit-input-placeholder{
@@ -101688,23 +101703,23 @@ html{
   }
 
   .lg\:hover\:placeholder-secondary:hover::-webkit-input-placeholder{
-    color: #0c153d;
+    color: #010d3d;
   }
 
   .lg\:hover\:placeholder-secondary:hover::-moz-placeholder{
-    color: #0c153d;
+    color: #010d3d;
   }
 
   .lg\:hover\:placeholder-secondary:hover:-ms-input-placeholder{
-    color: #0c153d;
+    color: #010d3d;
   }
 
   .lg\:hover\:placeholder-secondary:hover::-ms-input-placeholder{
-    color: #0c153d;
+    color: #010d3d;
   }
 
   .lg\:hover\:placeholder-secondary:hover::placeholder{
-    color: #0c153d;
+    color: #010d3d;
   }
 
   .lg\:focus\:placeholder-transparent:focus::-webkit-input-placeholder{
@@ -103588,23 +103603,23 @@ html{
   }
 
   .lg\:focus\:placeholder-secondary:focus::-webkit-input-placeholder{
-    color: #0c153d;
+    color: #010d3d;
   }
 
   .lg\:focus\:placeholder-secondary:focus::-moz-placeholder{
-    color: #0c153d;
+    color: #010d3d;
   }
 
   .lg\:focus\:placeholder-secondary:focus:-ms-input-placeholder{
-    color: #0c153d;
+    color: #010d3d;
   }
 
   .lg\:focus\:placeholder-secondary:focus::-ms-input-placeholder{
-    color: #0c153d;
+    color: #010d3d;
   }
 
   .lg\:focus\:placeholder-secondary:focus::placeholder{
-    color: #0c153d;
+    color: #010d3d;
   }
 
   .group:hover .lg\:group-hover\:placeholder-transparent::-webkit-input-placeholder{
@@ -105488,23 +105503,23 @@ html{
   }
 
   .group:hover .lg\:group-hover\:placeholder-secondary::-webkit-input-placeholder{
-    color: #0c153d;
+    color: #010d3d;
   }
 
   .group:hover .lg\:group-hover\:placeholder-secondary::-moz-placeholder{
-    color: #0c153d;
+    color: #010d3d;
   }
 
   .group:hover .lg\:group-hover\:placeholder-secondary:-ms-input-placeholder{
-    color: #0c153d;
+    color: #010d3d;
   }
 
   .group:hover .lg\:group-hover\:placeholder-secondary::-ms-input-placeholder{
-    color: #0c153d;
+    color: #010d3d;
   }
 
   .group:hover .lg\:group-hover\:placeholder-secondary::placeholder{
-    color: #0c153d;
+    color: #010d3d;
   }
 
   .lg\:pointer-events-none{
@@ -106616,7 +106631,7 @@ html{
   }
 
   .lg\:text-secondary{
-    color: #0c153d;
+    color: #010d3d;
   }
 
   .lg\:hover\:text-transparent:hover{
@@ -106996,7 +107011,7 @@ html{
   }
 
   .lg\:hover\:text-secondary:hover{
-    color: #0c153d;
+    color: #010d3d;
   }
 
   .lg\:focus\:text-transparent:focus{
@@ -107376,7 +107391,7 @@ html{
   }
 
   .lg\:focus\:text-secondary:focus{
-    color: #0c153d;
+    color: #010d3d;
   }
 
   .group:hover .lg\:group-hover\:text-transparent{
@@ -107756,7 +107771,7 @@ html{
   }
 
   .group:hover .lg\:group-hover\:text-secondary{
-    color: #0c153d;
+    color: #010d3d;
   }
 
   .lg\:text-xs{
@@ -110322,7 +110337,7 @@ html{
   }
 
   .xl\:bg-secondary{
-    background-color: #0c153d;
+    background-color: #010d3d;
   }
 
   .xl\:hover\:bg-transparent:hover{
@@ -110702,7 +110717,7 @@ html{
   }
 
   .xl\:hover\:bg-secondary:hover{
-    background-color: #0c153d;
+    background-color: #010d3d;
   }
 
   .xl\:focus\:bg-transparent:focus{
@@ -111082,7 +111097,7 @@ html{
   }
 
   .xl\:focus\:bg-secondary:focus{
-    background-color: #0c153d;
+    background-color: #010d3d;
   }
 
   .group:hover .xl\:group-hover\:bg-transparent{
@@ -111462,7 +111477,7 @@ html{
   }
 
   .group:hover .xl\:group-hover\:bg-secondary{
-    background-color: #0c153d;
+    background-color: #010d3d;
   }
 
   .xl\:bg-bottom{
@@ -112178,7 +112193,7 @@ html{
   }
 
   .xl\:border-secondary{
-    border-color: #0c153d;
+    border-color: #010d3d;
   }
 
   .xl\:hover\:border-transparent:hover{
@@ -112558,7 +112573,7 @@ html{
   }
 
   .xl\:hover\:border-secondary:hover{
-    border-color: #0c153d;
+    border-color: #010d3d;
   }
 
   .xl\:focus\:border-transparent:focus{
@@ -112938,7 +112953,7 @@ html{
   }
 
   .xl\:focus\:border-secondary:focus{
-    border-color: #0c153d;
+    border-color: #010d3d;
   }
 
   .group:hover .xl\:group-hover\:border-transparent{
@@ -113318,7 +113333,7 @@ html{
   }
 
   .group:hover .xl\:group-hover\:border-secondary{
-    border-color: #0c153d;
+    border-color: #010d3d;
   }
 
   .xl\:rounded-none{
@@ -127042,23 +127057,23 @@ html{
   }
 
   .xl\:placeholder-secondary::-webkit-input-placeholder{
-    color: #0c153d;
+    color: #010d3d;
   }
 
   .xl\:placeholder-secondary::-moz-placeholder{
-    color: #0c153d;
+    color: #010d3d;
   }
 
   .xl\:placeholder-secondary:-ms-input-placeholder{
-    color: #0c153d;
+    color: #010d3d;
   }
 
   .xl\:placeholder-secondary::-ms-input-placeholder{
-    color: #0c153d;
+    color: #010d3d;
   }
 
   .xl\:placeholder-secondary::placeholder{
-    color: #0c153d;
+    color: #010d3d;
   }
 
   .xl\:hover\:placeholder-transparent:hover::-webkit-input-placeholder{
@@ -128942,23 +128957,23 @@ html{
   }
 
   .xl\:hover\:placeholder-secondary:hover::-webkit-input-placeholder{
-    color: #0c153d;
+    color: #010d3d;
   }
 
   .xl\:hover\:placeholder-secondary:hover::-moz-placeholder{
-    color: #0c153d;
+    color: #010d3d;
   }
 
   .xl\:hover\:placeholder-secondary:hover:-ms-input-placeholder{
-    color: #0c153d;
+    color: #010d3d;
   }
 
   .xl\:hover\:placeholder-secondary:hover::-ms-input-placeholder{
-    color: #0c153d;
+    color: #010d3d;
   }
 
   .xl\:hover\:placeholder-secondary:hover::placeholder{
-    color: #0c153d;
+    color: #010d3d;
   }
 
   .xl\:focus\:placeholder-transparent:focus::-webkit-input-placeholder{
@@ -130842,23 +130857,23 @@ html{
   }
 
   .xl\:focus\:placeholder-secondary:focus::-webkit-input-placeholder{
-    color: #0c153d;
+    color: #010d3d;
   }
 
   .xl\:focus\:placeholder-secondary:focus::-moz-placeholder{
-    color: #0c153d;
+    color: #010d3d;
   }
 
   .xl\:focus\:placeholder-secondary:focus:-ms-input-placeholder{
-    color: #0c153d;
+    color: #010d3d;
   }
 
   .xl\:focus\:placeholder-secondary:focus::-ms-input-placeholder{
-    color: #0c153d;
+    color: #010d3d;
   }
 
   .xl\:focus\:placeholder-secondary:focus::placeholder{
-    color: #0c153d;
+    color: #010d3d;
   }
 
   .group:hover .xl\:group-hover\:placeholder-transparent::-webkit-input-placeholder{
@@ -132742,23 +132757,23 @@ html{
   }
 
   .group:hover .xl\:group-hover\:placeholder-secondary::-webkit-input-placeholder{
-    color: #0c153d;
+    color: #010d3d;
   }
 
   .group:hover .xl\:group-hover\:placeholder-secondary::-moz-placeholder{
-    color: #0c153d;
+    color: #010d3d;
   }
 
   .group:hover .xl\:group-hover\:placeholder-secondary:-ms-input-placeholder{
-    color: #0c153d;
+    color: #010d3d;
   }
 
   .group:hover .xl\:group-hover\:placeholder-secondary::-ms-input-placeholder{
-    color: #0c153d;
+    color: #010d3d;
   }
 
   .group:hover .xl\:group-hover\:placeholder-secondary::placeholder{
-    color: #0c153d;
+    color: #010d3d;
   }
 
   .xl\:pointer-events-none{
@@ -133870,7 +133885,7 @@ html{
   }
 
   .xl\:text-secondary{
-    color: #0c153d;
+    color: #010d3d;
   }
 
   .xl\:hover\:text-transparent:hover{
@@ -134250,7 +134265,7 @@ html{
   }
 
   .xl\:hover\:text-secondary:hover{
-    color: #0c153d;
+    color: #010d3d;
   }
 
   .xl\:focus\:text-transparent:focus{
@@ -134630,7 +134645,7 @@ html{
   }
 
   .xl\:focus\:text-secondary:focus{
-    color: #0c153d;
+    color: #010d3d;
   }
 
   .group:hover .xl\:group-hover\:text-transparent{
@@ -135010,7 +135025,7 @@ html{
   }
 
   .group:hover .xl\:group-hover\:text-secondary{
-    color: #0c153d;
+    color: #010d3d;
   }
 
   .xl\:text-xs{

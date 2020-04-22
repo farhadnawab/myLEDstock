@@ -39,6 +39,13 @@
     transition: all ease 0.3s;
 }
 
+.main-wrapper{
+    position: relative;
+    max-width: 2300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .not-front #header .container{
     @apply py-5;
 }
@@ -49,6 +56,7 @@
 }
 .logo{
     width: 36.1875rem;
+    max-width: 65%;
 }
 
 .container{
@@ -68,7 +76,7 @@
     border-radius: 2px;
     color: #fff;
     font-size: 1.5rem;
-    padding: 2.5rem 3.125rem;
+    padding: 1.8rem 2.625rem;
 }
 .btn-blue:hover{
     background: linear-gradient(270deg, #0c153d, #0c153d);
@@ -76,10 +84,13 @@
 }
 
 .about-us-image{
-    background-image: url("../img/about-us.png");
-    background-repeat: no-repeat;
-    background-size: 100%;
-    background-position: left center;
+    content: "";
+    position: absolute;
+    z-index: -1;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: auto;
 }
 
 .schedule-consultation-image{
@@ -90,7 +101,7 @@
 }
 
 .footer-image{
-    background-image: url("../img/schedule-consultation.png");
+    background-image: url("../img/footer.png");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -108,6 +119,10 @@ html{
 @media (min-width: 640px) {
     html{
         font-size: 13px;
+    }
+
+    .btn-blue{
+        padding: 2.5rem 3.125rem;
     }
 }
   
